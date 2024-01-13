@@ -1,6 +1,6 @@
 # Automatic Customer Ticket Classification
 
-This is the repository for Team 3 for CS372 Natural Language Processing with Python in KAIST.
+This repository belongs to Team 3 for KAIST CS372 Natural Language Processing with Python course.
 
 ## Introduction
 
