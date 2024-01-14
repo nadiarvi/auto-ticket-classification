@@ -13,14 +13,13 @@ The dataset for this project, sourced from Kaggle's "[Automatic Ticket Classific
 <div style="display:flex;">
     <div style="width:50%; text-align:center;">
         <img src="images/response.png" alt="Response Image" style="width:100%;">
-        <p>(a) Caption for Response Image</p>
+        <p style="margin: 0 auto;">(a) Caption for Response Image</p>
     </div>
     <div style="width:50%; text-align:center;">
         <img src="images/product.png" alt="Product Image" style="width:100%;">
-        <p>(b) Caption for Product Image</p>
+        <p style="margin: 0 auto;">(b) Caption for Product Image</p>
     </div>
 </div>
-
 
 Our project has significantly improved customer service operations, reducing reading time by 40%. This efficiency boost allows agents to handle a larger ticket volume. The system's topic modeling, though moderately coherent (0.599), presents room for improvement. Notably, product tagging achieved an accuracy of 0.825, and response tagging reached 0.753, showcasing high precision and minimal misclassification. Further iterations aim to enhance topic coherence for better complaint categorization.
 
