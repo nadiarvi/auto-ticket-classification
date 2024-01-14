@@ -12,4 +12,4 @@ The dataset for this project, sourced from Kaggle's "[Automatic Ticket Classific
 ## Result
 Our project has significantly improved customer service operations, reducing reading time by 40%. This efficiency boost allows agents to handle a larger ticket volume. The system's topic modeling, though moderately coherent (0.599), presents room for improvement. Notably, product tagging achieved an accuracy of 0.825, and response tagging reached 0.753, showcasing high precision and minimal misclassification. Further iterations aim to enhance topic coherence for better complaint categorization.
 
-### For more details of this project, please refer to our [presentation slides](https://docs.google.com/presentation/d/1oQFnkYC6nGRGeBq2qXt4d3YsHFwTTmtc97VSOb1rXdo/edit?usp=sharing).
+##### For more details of this project, please refer to our [presentation slides](https://docs.google.com/presentation/d/1oQFnkYC6nGRGeBq2qXt4d3YsHFwTTmtc97VSOb1rXdo/edit?usp=sharing).
