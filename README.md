@@ -10,6 +10,11 @@ This project introduces an automated ticket classification system using Natural 
 The dataset for this project, sourced from Kaggle's "[Automatic Ticket Classification](https://www.kaggle.com/datasets/venkatasubramanian/automatic-ticket-classification)" by Venkatasubramanian Sundaramahadevan, comprises 78,313 customer complaints from a financial company, featuring 22 attributes. The relevant columns extracted for analysis are: `complaint`, `company_response`, and `product`. This dataset has found applications in NLP and Text Mining research and is a valuable resource for our project.
 
 ## Result
+<div style="display:flex;">
+    <img src="response.png" alt="Response Tagging" style="width:50%;">
+    <img src="product.png" alt="Product Tagging" style="width:50%;">
+</div>
+
 ![a. response tagging](https://github.com/nadiarvi/auto-ticket-classification/assets/114945630/dd8c08b0-9e65-425a-9e1d-b7cec754f89d)
 ![b. product tagging](https://github.com/nadiarvi/auto-ticket-classification/assets/114945630/74522340-8466-443b-937a-05c0b0222ca5)
 Confusion matrix for response (a) and product (b) tagging
