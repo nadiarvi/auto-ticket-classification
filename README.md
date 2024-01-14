@@ -12,12 +12,12 @@ The dataset for this project, sourced from Kaggle's "[Automatic Ticket Classific
 ## Result
 <div style="display:flex;">
     <div style="width:50%; text-align:center;">
-        <img src="images/response.png" alt="Response Image" style="width:100%;">
-        <p style="margin: 0 auto;">(a) Caption for Response Image</p>
+        <img src="images/response.png" alt="Confusion Matrix for Response Tagging" width="500">
+        <p style="margin: 0 auto;">(a) Confusion Matrix for Response Tagging</p>
     </div>
     <div style="width:50%; text-align:center;">
-        <img src="images/product.png" alt="Product Image" style="width:100%;">
-        <p style="margin: 0 auto;">(b) Caption for Product Image</p>
+        <img src="images/product.png" alt="Confusion Matrix for Product Tagging" width="500">
+        <p style="margin: 0 auto;">(b) Confusion Matrix for Product Tagging</p>
     </div>
 </div>
 
