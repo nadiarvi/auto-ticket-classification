@@ -14,9 +14,6 @@ The dataset for this project, sourced from Kaggle's "[Automatic Ticket Classific
     <img src="images/response.png" alt="Response Tagging" style="width:50%;">
     <img src="images/product.png" alt="Product Tagging" style="width:50%;">
 </div>
-
-![a. response tagging](https://github.com/nadiarvi/auto-ticket-classification/assets/114945630/dd8c08b0-9e65-425a-9e1d-b7cec754f89d)
-![b. product tagging](https://github.com/nadiarvi/auto-ticket-classification/assets/114945630/74522340-8466-443b-937a-05c0b0222ca5)
 Confusion matrix for response (a) and product (b) tagging
 
 Our project has significantly improved customer service operations, reducing reading time by 40%. This efficiency boost allows agents to handle a larger ticket volume. The system's topic modeling, though moderately coherent (0.599), presents room for improvement. Notably, product tagging achieved an accuracy of 0.825, and response tagging reached 0.753, showcasing high precision and minimal misclassification. Further iterations aim to enhance topic coherence for better complaint categorization.
