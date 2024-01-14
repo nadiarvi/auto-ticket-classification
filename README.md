@@ -11,8 +11,8 @@ The dataset for this project, sourced from Kaggle's "[Automatic Ticket Classific
 
 ## Result
 <div style="display:flex;">
-    <img src="response.png" alt="Response Tagging" style="width:50%;">
-    <img src="product.png" alt="Product Tagging" style="width:50%;">
+    <img src="images/response.png" alt="Response Tagging" style="width:50%;">
+    <img src="images/product.png" alt="Product Tagging" style="width:50%;">
 </div>
 
 ![a. response tagging](https://github.com/nadiarvi/auto-ticket-classification/assets/114945630/dd8c08b0-9e65-425a-9e1d-b7cec754f89d)
