@@ -11,8 +11,8 @@ The dataset for this project, sourced from Kaggle's "[Automatic Ticket Classific
 
 ## Result
 <div style="display:flex;">
-    <img src="images/response.png" alt="Response Tagging" style="width:50%;">
-    <img src="images/product.png" alt="Product Tagging" style="width:50%;">
+    <img src="images/response.png" alt="Response Tagging" width="250">
+    <img src="images/product.png" alt="Product Tagging" width="250">
 </div>
 Confusion matrix for response (a) and product (b) tagging
 
